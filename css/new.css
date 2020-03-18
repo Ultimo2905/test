@@ -109,6 +109,8 @@
         height: auto;
         flex-direction: column;
         margin: 0 10px;
+        width: 90%;
+        margin: auto;
     }
 }
 
@@ -320,6 +322,9 @@
     .new-block_effect ul li span {
         font-size: 18px;
         line-height: 20px;
+    }
+    body{
+        overflow-x: hidden;
     }
 }
 
